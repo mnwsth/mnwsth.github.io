@@ -10,7 +10,7 @@ motivated graduate and undergraduate students over the past few years.
 ### Advisees and Student Collaborators
 * Chandan Kumar Jha, PhD candidate, IIT Gandhinagar (advised by Proj. Joycee Mekie)
 * Neelam Surana, PhD candidate, IIT Gandhinagar (advised by Proj. Joycee Mekie)
-* Tim Glint Issac, PhD candidate, IIT Gandhinagar (co-advised with Proj. Joycee Mekie)
+* Tom Glint Issac, PhD candidate, IIT Gandhinagar (co-advised with Proj. Joycee Mekie)
 * Prathamesh Upadhyay (MTech Student, IIT Gandhinagar)
 * Varun Gohil (UG Student, IIT Gandhinagar)
 * Shreyas Singh (UG Student, IIT Gandhinagar)
