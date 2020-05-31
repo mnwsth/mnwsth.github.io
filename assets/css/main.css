@@ -13,7 +13,7 @@ html {
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
-  color: #404040;
+  color: #000;
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
@@ -27,11 +27,13 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 600;
+/*  font-weight: 800; */
   line-height: 1.1;
 }
 h1 {
-  font-size: 2.25rem;
+/*  font-size: 2.25rem; */
+  font-size: 1.975rem;
 }
 h2 {
   font-size: 1.875rem;
@@ -610,6 +612,7 @@ footer .footer-custom-content {
 .intro-header .post-heading .post-subheading {
   margin-bottom: 1.25rem;
 }
+
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
   font-weight: 400;
@@ -645,7 +648,9 @@ footer .footer-custom-content {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    /* Manu: Changes the Font size
+    of the page header*/
+    font-size: 3rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;

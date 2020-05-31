@@ -1,0 +1,32 @@
+---
+layout: page
+title: People
+use-site-title: true
+---
+
+I have been very fortunate to work with some extremely smart and 
+motivated graduate and undergraduate students over the past few years.
+
+### Advisees and Student Collaborators
+* Chandan Kumar Jha, PhD candidate, IIT Gandhinagar (advised by Proj. Joycee Mekie)
+* Neelam Surana, PhD candidate, IIT Gandhinagar (advised by Proj. Joycee Mekie)
+* Tim Glint Issac, PhD candidate, IIT Gandhinagar (co-advised with Proj. Joycee Mekie)
+* Prathamesh Upadhyay (MTech Student, IIT Gandhinagar)
+* Varun Gohil (UG Student, IIT Gandhinagar)
+* Shreyas Singh (UG Student, IIT Gandhinagar)
+* Nisarg Ujjainkar (UG Student, IIT Gandhinagar)
+* Archit Checker (UG Student, Ashoka University)
+
+#### Collaborators
+* Prof. Joycee Mekie (IIT Gandhinagar)
+* Mr. Deepak Shankar (Mirabilis Design)
+
+#### Past Mentees
+* Sarabjeet Singh, Research Fellow (**Next Stop**: PhD Student, University of Utah)
+* Subisha V, M.Tech student, graduated July 2019 (**Next Stop**: MTS, Nutanix)
+* Nisarg Ujjainkar, IIT Gandhinagar, Intern, Summer 2019
+* Kshitij Kapoor, Ashoka University, Intern, Summer 2019
+* Deepraj Pandey, Ashoka University, Intern, Summer 2019
+* Nisarg Parikh, LD College of Engineering, Summer 2018
+* Sanjith Athlur, PES University, Intern, Summer 2017
+* Indraneel Sarkar, NIT Durgapur, Intern, Summer 2017
