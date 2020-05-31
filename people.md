@@ -22,7 +22,7 @@ motivated graduate and undergraduate students over the past few years.
 * Mr. Deepak Shankar (Mirabilis Design)
 
 #### Past Mentees
-* Sarabjeet Singh, Research Fellow (**Next Stop**: PhD Student, University of Utah)
+* <a href="https://www.cs.utah.edu/~sarab">Sarabjeet Singh</a>, Research Fellow (**Next Stop**: PhD Student, University of Utah)
 * Subisha V, M.Tech student, graduated July 2019 (**Next Stop**: MTS, Nutanix)
 * Nisarg Ujjainkar, IIT Gandhinagar, Intern, Summer 2019
 * Kshitij Kapoor, Ashoka University, Intern, Summer 2019
