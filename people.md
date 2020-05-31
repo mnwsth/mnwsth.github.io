@@ -12,10 +12,10 @@ motivated graduate and undergraduate students over the past few years.
 * Neelam Surana, PhD candidate, IIT Gandhinagar (advised by Proj. Joycee Mekie)
 * Tom Glint Issac, PhD candidate, IIT Gandhinagar (co-advised with Proj. Joycee Mekie)
 * Prathamesh Upadhyay (MTech Student, IIT Gandhinagar)
-* Varun Gohil (UG Student, IIT Gandhinagar)
+* <a href="https://varungohil.github.io">Varun Gohil</a> (UG Student, IIT Gandhinagar)
 * Shreyas Singh (UG Student, IIT Gandhinagar)
 * Nisarg Ujjainkar (UG Student, IIT Gandhinagar)
-* Archit Checker (UG Student, Ashoka University)
+* <a href="https://checker5965.github.io">Archit Checker</a> (UG Student, Ashoka University)
 
 #### Collaborators
 * Prof. Joycee Mekie (IIT Gandhinagar)
