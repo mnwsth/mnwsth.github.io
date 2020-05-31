@@ -18,7 +18,7 @@ motivated graduate and undergraduate students over the past few years.
 * <a href="https://checker5965.github.io">Archit Checker</a> (UG Student, Ashoka University)
 
 #### Collaborators
-* Prof. Joycee Mekie (IIT Gandhinagar)
+* <a href="http://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> (IIT Gandhinagar)
 * Mr. Deepak Shankar (Mirabilis Design)
 
 #### Past Mentees
