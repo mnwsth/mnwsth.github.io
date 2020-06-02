@@ -24,7 +24,7 @@ motivated graduate and undergraduate students over the past few years.
 #### Past Mentees
 * <a href="https://www.cs.utah.edu/~sarab">Sarabjeet Singh</a>, Research Fellow (**Next Stop**: PhD Student, University of Utah)
 * Subisha V, M.Tech student, graduated July 2019 (**Next Stop**: MTS, Nutanix)
-* Nisarg Ujjainkar, IIT Gandhinagar, Intern, Summer 2019
+* Arup Mondal, Banaras Hindu University, Intern, Summer 2019 (**Next Stop**: PhD Student, Ashoka University)
 * Kshitij Kapoor, Ashoka University, Intern, Summer 2019
 * Deepraj Pandey, Ashoka University, Intern, Summer 2019
 * Nisarg Parikh, LD College of Engineering, Summer 2018
