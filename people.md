@@ -8,7 +8,7 @@ I have been very fortunate to work with some extremely smart and
 motivated graduate and undergraduate students over the past few years.
 
 ### Advisees and Student Collaborators
-* Chandan Kumar Jha, PhD candidate, IIT Gandhinagar (advised by Proj. Joycee Mekie)
+* <a href="https://chajha.github.io/">Chandan Kumar Jha</a>, PhD candidate, IIT Gandhinagar (advised by Proj. Joycee Mekie)
 * Neelam Surana, PhD candidate, IIT Gandhinagar (advised by Proj. Joycee Mekie)
 * Tom Glint Issac, PhD candidate, IIT Gandhinagar (co-advised with Proj. Joycee Mekie)
 * Prathamesh Upadhyay (MTech Student, IIT Gandhinagar)
