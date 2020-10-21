@@ -4,6 +4,7 @@ title: People
 use-site-title: true
 ---
 
+
 I have been very fortunate to work with some extremely smart and 
 motivated graduate and undergraduate students over the past few years.
 
