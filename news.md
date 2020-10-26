@@ -3,6 +3,9 @@ layout: page
 title: News
 use-site-title: true
 ---
+### August 2020
+* Glint's work on developing ANSim gets accepted to ICCD 2020.
+
 ### May 2020
 * Our paper, **Prefetching in Hybrid Main Memory Systems**, gets accepted to HotStorage 2020. Congratulations to Subisha, Varun and Nisarg!
 
