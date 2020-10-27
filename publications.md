@@ -15,6 +15,8 @@ __IEEE Transactions on Multi-Scale Computing Systems__, Vol. PP, No. 99, 2018, I
 1. <a href="/pubs/jilp2007.pdf">*Understanding the Impact of 3D Stacked Layouts on ILP*</a>, Manu Awasthi, Vivek Venkatesan, Rajeev Balasubramonian, __Journal of Instruction Level Parallelism (JILP)__, Volume 7, 2007 
 
 ### Conferences and Workshops
+1. <a href="/pubs/iccd2020.pdf">*ANSim: A Fast and Versatile Asynchronous Network-On-Chip Simulator*</a>, Tom Glint, Jitesh Sah, Manu Awasthi, Joycee Mekie,  __IEEE International Conference on Computer Design (ICCD '20)__, October, 2020
+
 1. <a href="/pubs/hotstorage2020.pdf">*Prefetching in Hybrid Main Memory Systems*</a>, Subisha V, Varun Gohil, Nisarg Ujjainkar, Manu Awasthi,   __USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage '20)__, July, 2020
 
 2. <a href="/pubs/iiswc2019.pdf">*Efficacy of Statistical Sampling on Contemporary Workloads: The Case of SPEC CPU2017*</a>, Sarabjeet Singh, Manu Awasthi, __IEEE International Symposium on Workload Characterization (IISWC '19)__, Orlando, November 2019
