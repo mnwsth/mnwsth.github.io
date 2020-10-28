@@ -13,6 +13,7 @@ motivated graduate and undergraduate students over the past few years.
 * <a href="https://varungohil.github.io">Varun Gohil</a> (Research Fellow, Ashoka University)
 * Shreyas Singh (IIT Gandhinagar)
 * Nisarg Ujjainkar (UG Student, IIT Gandhinagar)
+* Deepraj Pandey (ASP Student, Ashoka University)
 
 #### Collaborators
 * <a href="http://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> (IIT Gandhinagar)
