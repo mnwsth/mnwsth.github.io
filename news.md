@@ -3,6 +3,11 @@ layout: page
 title: News
 use-site-title: true
 ---
+
+### October 2020
+* I will be teaching in <a href="https://www.chips.pes.edu/caws2020">Computer Architecture Winter School (CAWS)</a> 2020.
+* I will be serving on the TPC for <a href="http://embeddedandvlsidesignconference.org/">VLSID 2021</a>.
+
 ### August 2020
 * Glint's work on developing ANSim gets accepted to ICCD 2020.
 
