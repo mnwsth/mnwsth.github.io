@@ -8,7 +8,7 @@ I have been very fortunate to work with some extremely smart and
 motivated graduate and undergraduate students over the past few years.
 
 ### Advisees and Student Collaborators
-* <a href="https://chajha.github.io/">Chandan Kumar Jha</a>, PhD candidate, IIT Gandhinagar (advised by Prof. Joycee Mekie)
+
 * Tom Glint Issac, PhD student, IIT Gandhinagar (co-advised with Prof. Joycee Mekie)
 * <a href="https://varungohil.github.io">Varun Gohil</a> (Research Fellow, Ashoka University)
 * Shreyas Singh (IIT Gandhinagar)
@@ -17,6 +17,8 @@ motivated graduate and undergraduate students over the past few years.
 
 #### Collaborators
 * <a href="http://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> (IIT Gandhinagar)
+* <a href="https://subodhvsharma.github.io/">Prof. Subodh Sharma</a> (IIT Delhi)
+* <a href="https://chajha.github.io/">Dr. Chandan Kumar Jha</a>, Postdoctoral Fellow, IIT Bombay
 * Mr. Deepak Shankar (Mirabilis Design)
 
 #### Past Mentees

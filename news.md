@@ -3,6 +3,8 @@ layout: page
 title: News
 use-site-title: true
 ---
+### December 2020
+* Teaching in <a href="https://www.chips.pes.edu/caws2020">Computer Architecture Winter School (CAWS)</a> 2020 was a lot of fun. Slide and videos for the event can be found <a href="https://drive.google.com/drive/u/1/folders/1a-w0jEIimpOvakwDLD9qOpU-R10zEifX">here</a>.
 
 ### October 2020
 * I will be teaching in <a href="https://www.chips.pes.edu/caws2020">Computer Architecture Winter School (CAWS)</a> 2020.
