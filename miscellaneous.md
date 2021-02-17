@@ -4,6 +4,8 @@ title: Miscellaneous
 use-site-title: true
 ---
 ### Past Events
+
+* <a href="https://www.chips.pes.edu/caws2020">Computer Architecture Winter School (CAWS)  2020, December 21st - 24th, 2020</a> (<a href="https://drive.google.com/drive/u/1/folders/1a-w0jEIimpOvakwDLD9qOpU-R10zEifX">Videos</a>).
 * <a href="https://cs.ashoka.edu.in/wocs2018/">Workshop on Computer Systems (WoCS 2018), December 8th - 9th, 2018</a> (<a href="https://cs.ashoka.edu.in/wocs2018/speakers.html">Slides</a>).
 * <a href="https://www.cse.iitk.ac.in/users/biswap/CASS18/cass.html">Computer Architecture Summer School (CASS 2018), July 2nd - 6th</a> (<a href="https://www.cse.iitk.ac.in/users/biswap/CASS18/slides.html">Slides and Videos</a>).
 * <a href="http://events.iitgn.ac.in/2017/woms/">Workshop on Memory and Storage Systems (WoMS), December 9th - 10th, 2017</a> (<a href="https://www.youtube.com/playlist?list=PLRfu94TCePTtCTpT2c2HIOed41X13Hqk0">Talk Playlist</a>)
