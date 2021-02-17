@@ -3,7 +3,7 @@ layout: page
 title: News
 use-site-title: true
 ---
-### February 2020
+### February 2021
 * Interacted with a bunch of super enthusiastic kids as a part of <a href="https://www.talktoascientistindia.com/">Talk To A 
     Scientist</a>; recieved a <a href="/pubs/misc/ttasSouvenirMA.pdf">nice sovenir</a> to boot!  
     
