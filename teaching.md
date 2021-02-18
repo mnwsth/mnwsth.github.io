@@ -4,6 +4,9 @@ title: Teaching
 use-site-title: true
 ---
 
+## Spring 2021
+* <a href="https://sites.google.com/ashoka.edu.in/cs1217/">Operating Systems</a> (UG)
+
 ## Monsoon 2020
 * <a href="https://sites.google.com/ashoka.edu.in/cs1216/">Computer Organization and Systems</a> (UG)
 * <a href="https://sites.google.com/ashoka.edu.in/cs1319/">Programming Language Design and Implementation</a> (UG)
