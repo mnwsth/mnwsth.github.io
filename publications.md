@@ -4,6 +4,8 @@ title: Publications
 use-site-title: true
 ---
 ### Journal
+5. <a href="https://arxiv.org/pdf/2104.04763.pdf">*Fixed-Posit: A Floating-Point Representation for Error-Resilient Applications*</a>, Varun Gohil, Sumit Walia, Joycee Mekie, Manu Awasthi,  __IEEE Transactions on Circuits and Systems II: Express Briefs__, April 2021
+
 4. <a href="https://arxiv.org/pdf/1809.05928.pdf">*I/O Workload Management for All-Flash Datacenter Storage Systems Based on Total Cost of Ownership*</a>, Zhengyu Yang, Manu Awasthi, Mrinmoy Ghosh, Janki Bhimani, Ningfang Mi, __IEEE Transactions on Big Data__, September 2018
 
 3. <a href="https://ieeexplore.ieee.org/abstract/document/8279510">*Docker Container Scheduler for I/O Intensive Applications running on NVMe SSDs*</a>, Janki Bhimani, Zhengyu Yang, Ningfang Mi, Jingpei Yang, Qiumin Xu, 
