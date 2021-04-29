@@ -3,6 +3,14 @@ layout: page
 title: News
 use-site-title: true
 ---
+### April 2021
+*  Varun and Sumit's work on "fixing'' posits for error resilient applications gets accepted to 
+        <a href="https://ieee-cas.org/pubs/tcas2">IEEE TCAS - II (Express Briefs)</a>! 
+        <a href="https://arxiv.org/pdf/2104.04763.pdf">Read the paper</a> or 
+        <a href="https://github.com/COSys-Research/Fixed-Posit">try the tool chain</a> they developed for 
+        the paper's experiments.
+
+
 ### February 2021
 * Interacted with a bunch of super enthusiastic kids as a part of <a href="https://www.talktoascientistindia.com/">Talk To A 
     Scientist</a>; recieved a <a href="/pubs/misc/ttasSouvenirMA.pdf">nice sovenir</a> to boot!  
