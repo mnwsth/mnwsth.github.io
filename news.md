@@ -3,6 +3,10 @@ layout: page
 title: News
 use-site-title: true
 ---
+### June 2021
+* Gave a talk at the <a href="https://dss-2021.ieeebangalore.org/">IEEE Data & Storage Symposium 2021</a>.
+* Taught a module on Storage Systems in ACM India's Summer School on <a href="https://india.acm.org/education/program-execution-summer-2021">Program Execution</a>.
+
 ### May 2021
 * <a href="https://chajha.github.io/">Chandan's</a> <a href="https://arxiv.org/pdf/2105.07432.pdf">paper on a new, energy efficient data encoding mechanism</a> for CPU-DRAM transfers, geared specifically
 towards error resilient applications gets accepted in <a href="https://ieee-cas.org/publications/transactions-circuits-and-systems-i-regular-papers">IEEE Transactions on Circuits and Systems--I</a>!
