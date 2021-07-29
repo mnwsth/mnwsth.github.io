@@ -11,6 +11,7 @@ use-site-title: true
 * <a href="http://events.iitgn.ac.in/2017/woms/">Workshop on Memory and Storage Systems (WoMS), December 9th - 10th, 2017</a> (<a href="https://www.youtube.com/playlist?list=PLRfu94TCePTtCTpT2c2HIOed41X13Hqk0">Talk Playlist</a>)
 
 ### Architecture/Hardware Links
+
 * <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu">Computer Systems Colloquium's Youtube Playlist</a>
 * <a href="https://www.nextplatform.com"> The Next Platform</a>
 * <a href="http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html">Dan Tsafrir's collection of CFPs in Computer Systems</a>
