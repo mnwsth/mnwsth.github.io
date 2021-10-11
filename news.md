@@ -3,6 +3,10 @@ layout: page
 title: News
 use-site-title: true
 ---
+### September 2021
+* <a href="https://www.linkedin.com/in/arnabkalita/">Arnabjyoti Kalita</a> joins as a Research Associate. Welcome Arnab!
+* <a href="https://varungohil.github.io/">Varun</a> and Nisarg's work on performance bottleneck analysis of Android 9's software stack on smartphones is accepted to <a href="https://www.benchcouncil.org/bench21/">Bench '21</a>! <a href="pubs/bench2021.pdf">Read the paper here</a>.   
+
 ### June 2021
 * Gave a talk at the <a href="https://dss-2021.ieeebangalore.org/">IEEE Data & Storage Symposium 2021</a>.
 * Taught a module on Storage Systems in ACM India's Summer School on <a href="https://india.acm.org/education/program-execution-summer-2021">Program Execution</a>.
