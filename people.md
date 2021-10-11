@@ -19,8 +19,8 @@ motivated graduate and undergraduate students over the past few years.
 * Mr. Deepak Shankar (Mirabilis Design)
 
 #### Past Mentees
-* <a href="https://varungohil.github.io">Varun Gohil</a> Research Fellow (**Next Stop**: PhD Student, Cornell University)
-* Shreyas Singh (IIT Gandhinagar, graduated Spring 2020) (**Next Stop**: PhD Student, University of Utah)
+* <a href="https://varungohil.github.io">Varun Gohil</a>, Research Fellow (**Next Stop**: PhD Student, Cornell University)
+* Shreyas Singh, IIT Gandhinagar, graduated Spring 2020 (**Next Stop**: PhD Student, University of Utah)
 * <a href="https://checker5965.github.io">Archit Checker</a>, graduated Summer 2020 (**Next Stop**: Amuse Labs)
 * Prathamesh Upadhyay, M.Tech student, graduated Spring 2020 (**Next Stop**: MTS, Nutanix)
 * <a href="https://www.cs.utah.edu/~sarab">Sarabjeet Singh</a>, Research Fellow (**Next Stop**: PhD Student, University of Utah)
