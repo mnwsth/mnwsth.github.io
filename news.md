@@ -3,6 +3,9 @@ layout: page
 title: News
 use-site-title: true
 ---
+### December 2021
+* I am teaching a module on Non Volatile Memory Systems in the <a href="https://www.chips.pes.edu/nsm-caws2021">NSM-Computer Architecture Winter School 2021</a>.
+
 ### September 2021
 * <a href="https://www.linkedin.com/in/arnabkalita/">Arnabjyoti Kalita</a> joins as a Research Associate. Welcome Arnab!
 * <a href="https://varungohil.github.io/">Varun</a> and Nisarg's work on performance bottleneck analysis of Android 9's software stack on smartphones is accepted to <a href="https://www.benchcouncil.org/bench21/">Bench '21</a>! <a href="/pubs/bench2021.pdf">Read the paper here</a>.   
@@ -25,7 +28,7 @@ towards error resilient applications gets accepted in <a href="https://ieee-cas.
 
 ### February 2021
 * Interacted with a bunch of super enthusiastic kids as a part of <a href="https://www.talktoascientistindia.com/">Talk To A 
-    Scientist</a>; recieved a <a href="/pubs/misc/ttasSouvenirMA.pdf">nice sovenir</a> to boot!  
+    Scientist</a>; recieved a <a href="/pubs/misc/ttasSouvenirMA.pdf">nice souvenir</a> to boot!  
     
 ### December 2020
 * Teaching in <a href="https://www.chips.pes.edu/caws2020">Computer Architecture Winter School (CAWS)</a> 2020 was a lot of fun. Slide and videos for the event can be found <a href="https://drive.google.com/drive/u/1/folders/1a-w0jEIimpOvakwDLD9qOpU-R10zEifX">here</a>.

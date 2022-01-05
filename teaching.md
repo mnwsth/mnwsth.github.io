@@ -3,6 +3,8 @@ layout: page
 title: Teaching
 use-site-title: true
 ---
+## AY 2021 - 2022
+* I am not teaching during AY 2021-2022.
 
 ## Spring 2021
 * <a href="https://sites.google.com/ashoka.edu.in/cs1217/">Operating Systems</a> (UG)
