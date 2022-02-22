@@ -11,6 +11,7 @@ motivated graduate and undergraduate students over the past few years.
 
 * Tom Glint Issac, PhD student, IIT Gandhinagar (co-advised with Prof. Joycee Mekie)
 * <a href="https://www.linkedin.com/in/arnabkalita/">Arnabjyoti Kalita</a>, Research Associate, Ashoka University
+* Soham Bagchi, UG student, Ashoka University
 
 #### Collaborators
 * <a href="http://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> (IIT Gandhinagar)
