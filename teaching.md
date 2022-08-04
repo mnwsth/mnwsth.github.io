@@ -3,6 +3,11 @@ layout: page
 title: Teaching
 use-site-title: true
 ---
+
+## Monsoon 2022
+* <a href="https://sites.google.com/ashoka.edu.in/cs2465/">Computing in the Cloud</a> (UG+PG)
+* <a href="https://sites.google.com/ashoka.edu.in/cs1216/">Computer Organization and Systems</a> (UG)
+
 ## AY 2021 - 2022
 * I am not teaching during AY 2021-2022.
 

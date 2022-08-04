@@ -3,6 +3,9 @@ layout: page
 title: News
 use-site-title: true
 ---
+### July 2022
+* Arnabjyoti Kalita leaves to join the CS PhD Program at University of Virginia. Good luck Arnab!
+
 ### December 2021
 * I am teaching a module on Non Volatile Memory Systems in the <a href="https://www.chips.pes.edu/nsm-caws2021">NSM-Computer Architecture Winter School 2021</a>.
 
