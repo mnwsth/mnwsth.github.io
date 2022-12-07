@@ -4,6 +4,9 @@ title: Publications
 use-site-title: true
 ---
 ### Journal
+7. <a href="pubs/taco2022.pdf">*HyGain: High Performance, Energy-Efficient Hybrid Gain
+Cell based Cache Hierarchy*</a>, Sarabjeet Singh, Neelam Surana,Kailash Prasad, Pranjali Jain, Joycee Mekie, Manu Awasthi, __ACM Transactions on Architecture and Code Optimization__, November 2022
+
 6. <a href="https://arxiv.org/pdf/2105.07432.pdf">*Zero Aware Configurable Data Encoding by
 Skipping Transfer for Error Resilient Applications*</a>, Chandan Kumar Jha, Shreyas Singh, Riddhi Thakker, Manu Awasthi, Joycee Mekie,  __IEEE Transactions on Circuits and Systems I: Regular Papers__, May 2021
 
@@ -20,7 +23,10 @@ __IEEE Transactions on Multi-Scale Computing Systems__, Vol. PP, No. 99, 2018, I
 1. <a href="/pubs/jilp2007.pdf">*Understanding the Impact of 3D Stacked Layouts on ILP*</a>, Manu Awasthi, Vivek Venkatesan, Rajeev Balasubramonian, __Journal of Instruction Level Parallelism (JILP)__, Volume 7, 2007 
 
 ### Conferences and Workshops
-1. <a href="/pubs/bench2021.pdf">*Performance Optimization Opportunities in the Android Software Stack*</a>, Varun Gohil, Nisarg Ujjainkar, Joycee Mekie, Manu Awasthi,  __BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing (Bench'21)__, November, 2021
+1. <a href="/pubs/date2023.pdf">*REDRAW: Fast and Efficient Hardware Accelerator with Reduced Reads And Writes for 3D UNet*</a>, Tom Glint Issac, Manu Awasthi, Joycee Mekie, __IEEE
+Conference on Design Automation and Test in Europe (DATE '23)__, April, 2023.
+
+1. <a href="/pubs/bench2021.pdf">*Performance Optimization Opportunities in the Android Software Stack*</a>, Varun Gohil, Nisarg Ujjainkar, Joycee Mekie, Manu Awasthi,  __BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing (Bench '21)__, November, 2021
 
 
 1. <a href="/pubs/iccd2020.pdf">*ANSim: A Fast and Versatile Asynchronous Network-On-Chip Simulator*</a>, Tom Glint, Jitesh Sah, Manu Awasthi, Joycee Mekie,  __IEEE International Conference on Computer Design (ICCD '20)__, October, 2020

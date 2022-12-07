@@ -3,6 +3,13 @@ layout: page
 title: News
 use-site-title: true
 ---
+### November 2022
+* Glint's paper on novel accelerator architecture for 3DUNet bettering SOTA in TOPS/Watt got accepted to <a href="https://www.date-conference.com/">DATE 2023</a>.
+* <a href="https://sarabjeetsingh007.github.io/">Sarabjeet</a> and Neelam's <a href="pubs/taco2022.pdf">paper</a> on cache hierarchy design using Gain Cells gets accepted to <a href="https://dl.acm.org/doi/10.1145/3572839">ACM Transactions on Architecture and Code Optimization (TACO)</a>!
+
+### September 2022
+* I am teaching a new CS Elective - Computing in the Cloud in Monsoon 2022.
+
 ### July 2022
 * Arnabjyoti Kalita leaves to join the CS PhD Program at University of Virginia. Good luck Arnab!
 
