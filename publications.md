@@ -26,6 +26,10 @@ __IEEE Transactions on Multi-Scale Computing Systems__, Vol. PP, No. 99, 2018, I
 1. <a href="/pubs/date2023.pdf">*REDRAW: Fast and Efficient Hardware Accelerator with Reduced Reads And Writes for 3D UNet*</a>, Tom Glint Issac, Manu Awasthi, Joycee Mekie, __IEEE
 Conference on Design Automation and Test in Europe (DATE '23)__, April, 2023.
 
+1. <a href="/pubs/hipc2022.pdf">*Verifiable and Practical Compliance for Data
+Privacy Laws*</a>, Manu Awasthi, __Workshop on Data Fabric for Hybrid Clouds,
+(co-located with IEEE HiPC), (WDFHC '22)__, December 2022.
+
 1. <a href="/pubs/bench2021.pdf">*Performance Optimization Opportunities in the Android Software Stack*</a>, Varun Gohil, Nisarg Ujjainkar, Joycee Mekie, Manu Awasthi,  __BenchCouncil International Symposium on Benchmarking, Measuring and Optimizing (Bench '21)__, November, 2021
 
 
