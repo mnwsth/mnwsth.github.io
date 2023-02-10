@@ -23,6 +23,11 @@ __IEEE Transactions on Multi-Scale Computing Systems__, Vol. PP, No. 99, 2018, I
 1. <a href="/pubs/jilp2007.pdf">*Understanding the Impact of 3D Stacked Layouts on ILP*</a>, Manu Awasthi, Vivek Venkatesan, Rajeev Balasubramonian, __Journal of Instruction Level Parallelism (JILP)__, Volume 7, 2007 
 
 ### Conferences and Workshops
+1. <a href="/pubs/date2023-lbr.pdf">*Analysis of Quantization Across DNN Accelerator Architecture Paradigms*</a>,
+Tom Glint Issac, Chandan Kumar Jha, Manu Awasthi, Joycee Mekie, __IEEE Conference
+on Design Automation and Test in Europe (Late Breaking Results Track), DATE '23__, April, 2023.
+
+
 1. <a href="/pubs/date2023.pdf">*REDRAW: Fast and Efficient Hardware Accelerator with Reduced Reads And Writes for 3D UNet*</a>, Tom Glint Issac, Manu Awasthi, Joycee Mekie, __IEEE
 Conference on Design Automation and Test in Europe (DATE '23)__, April, 2023.
 
