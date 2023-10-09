@@ -10,7 +10,6 @@ motivated graduate and undergraduate students over the past few years.
 ### Advisees, Student Collaborators and Research Staff
 
 * Tom Glint Issac, PhD student, IIT Gandhinagar (co-advised with Prof. Joycee Mekie)
-* Soham Bagchi, ASP student, Ashoka University
 
 #### Collaborators
 * <a href="http://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> (IIT Gandhinagar)
@@ -19,6 +18,7 @@ motivated graduate and undergraduate students over the past few years.
 * Mr. Deepak Shankar (Mirabilis Design)
 
 #### Past Mentees
+* Soham Bagchi, Capstone Thesis Advisee (**Next Stop**: PhD Student, University of Utah)
 * <a href="https://www.linkedin.com/in/arnabkalita/">Arnabjyoti Kalita</a>, Research Associate (**Next Stop**: PhD Student, University of Virginia)
 * <a href="https://varungohil.github.io">Varun Gohil</a>, Research Fellow (**Next Stop**: PhD Student, Cornell University)
 * Shreyas Singh, IIT Gandhinagar, graduated Spring 2020 (**Next Stop**: PhD Student, University of Utah)
