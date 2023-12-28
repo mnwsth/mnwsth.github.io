@@ -3,6 +3,10 @@ layout: page
 title: News
 use-site-title: true
 ---
+## December 2023
+* Glint has submitted his thesis and will be starting a new position with Forschungszentrum Jülich in Germany. Congrats Glint!
+* Glint's has 2 papers accepted at ASP-DAC 2024. Congrats Glint!
+
 ### January 2023
 * Glint's paper on analysis of quantization across DNN accelerator architectures got accepted to <a href="https://www.date-conference.com/">DATE 2023</a> in Late Breaking Results track!
 

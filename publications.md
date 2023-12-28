@@ -23,13 +23,24 @@ __IEEE Transactions on Multi-Scale Computing Systems__, Vol. PP, No. 99, 2018, I
 1. <a href="/pubs/jilp2007.pdf">*Understanding the Impact of 3D Stacked Layouts on ILP*</a>, Manu Awasthi, Vivek Venkatesan, Rajeev Balasubramonian, __Journal of Instruction Level Parallelism (JILP)__, Volume 7, 2007 
 
 ### Conferences and Workshops
+1. <a href="/pubs/aspdac2024a.pdf">*Hardware-Software Co-Design of a Collaborative DNN Accelerator for 3D Stacked Memories with Multi-Channel Data*</a>,
+Tom Glint Issac, Manu Awasthi, Joycee Mekie, __Asia and South Pacific Design Automation Conference,
+(ASP-DAC '24)__, January, 2024.
+
+1. <a href="/pubs/aspdac2024b.pdf">*CANSim: When to Utilize Synchronous and Asynchronous Routers*</a>,
+Tom Glint Issac, Manu Awasthi, Joycee Mekie, __Asia and South Pacific Design Automation Conference,
+(ASP-DAC '24)__, January, 2024.
+
 1. <a href="/pubs/date2023-lbr.pdf">*Analysis of Quantization Across DNN Accelerator Architecture Paradigms*</a>,
 Tom Glint Issac, Chandan Kumar Jha, Manu Awasthi, Joycee Mekie, __IEEE Conference
-on Design Automation and Test in Europe (Late Breaking Results Track), DATE '23__, April, 2023.
+on Design Automation and Test in Europe (DATE '23)__, *Late Breaking Results Track*, April, 2023.
 
 
 1. <a href="/pubs/date2023.pdf">*REDRAW: Fast and Efficient Hardware Accelerator with Reduced Reads And Writes for 3D UNet*</a>, Tom Glint Issac, Manu Awasthi, Joycee Mekie, __IEEE
 Conference on Design Automation and Test in Europe (DATE '23)__, April, 2023.
+
+1. <a href="/pubs/ispass2023.pdf">*Analysis of Conventional, Near-Memory, and In-Memory DNN Accelerators*</a>, Tom Glint Issac,Chandan Kumar Jha, Manu Awasthi, Joycee Mekie, __IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS '23)__, *Poster Track*, April, 2023.
+
 
 1. <a href="/pubs/hipc2022.pdf">*Verifiable and Practical Compliance for Data
 Privacy Laws*</a>, Manu Awasthi, __Workshop on Data Fabric for Hybrid Clouds,
@@ -44,19 +55,19 @@ Privacy Laws*</a>, Manu Awasthi, __Workshop on Data Fabric for Hybrid Clouds,
 
 2. <a href="/pubs/iiswc2019.pdf">*Efficacy of Statistical Sampling on Contemporary Workloads: The Case of SPEC CPU2017*</a>, Sarabjeet Singh, Manu Awasthi, __IEEE International Symposium on Workload Characterization (IISWC '19)__, Orlando, November 2019
 
-3. <a href="/pubs/icpe2019a.pdf">*FAB: Framework for Analyzing Benchmarks*</a>, Varun Gohil, Shreyas Singh, Manu Awasthi, __10th International Conference on Conference on Performance Engineering, (ICPE '19)__, Work-in-Progress Track, Mumbai, April 2019
+3. <a href="/pubs/icpe2019a.pdf">*FAB: Framework for Analyzing Benchmarks*</a>, Varun Gohil, Shreyas Singh, Manu Awasthi, __10th International Conference on Conference on Performance Engineering, (ICPE '19)__, *Work-in-Progress Track*, Mumbai, April 2019
 
 4. <a href="/pubs/icpe2019b.pdf">*Memory Centric Characterization and Analysis of SPEC CPU2017 Suite*</a>, Sarabjeet Singh, Manu Awasthi, __10th International Conference on Conference on Performance Engineering, (ICPE '19)__, Mumbai, April 2019. (<a href="https://arxiv.org/pdf/1910.00651.pdf">arXiv version with more details</a>)
 
-5. <a href="/pubs/mobicom2018.pdf">*META: Memory Exploration Tool for Android Devices*</a>, __24th International Conference on Mobile Computing and Networking, (MobiCom '18)__, Poster Track, New Delhi, October 2018
+5. <a href="/pubs/mobicom2018.pdf">*META: Memory Exploration Tool for Android Devices*</a>, __24th International Conference on Mobile Computing and Networking, (MobiCom '18)__, *Poster Track*, New Delhi, October 2018
 
 6. <a href="/pubs/date2018.pdf">*Exploring Non-Volatile Main Memory Architectures for Handheld Devices*</a>, Sneha Ved, Manu Awasthi __IEEE Conference on Design Automation and Test in Europe, (DATE)__, Dresden, March 2018
 
-7. <a href="/pubs/nas2017.pdf">*Rack Level Scheduling for Containerized Workloads*</a>, Qiumin Xu, Krishna T. Malladi, Manu Awasthi, __12th International Conference on Networking, Architecture, and Storage (NAS)__ Poster Track, Shenzhen. August 2017
+7. <a href="/pubs/nas2017.pdf">*Rack Level Scheduling for Containerized Workloads*</a>, Qiumin Xu, Krishna T. Malladi, Manu Awasthi, __12th International Conference on Networking, Architecture, and Storage (NAS)__ *Poster Track*, Shenzhen. August 2017
 
 8. <a href="/pubs/msst2017.pdf">*Performance Analysis of Containerized Applications on Local and Remote Storage*</a>, Qiumin Xu, Manu Awasthi, Krishna T. Malladi, Janki Bhimani, Jingpei Yang, Murali Annavaram, __33rd International Conference on Massive Storage Systems and Technology (MSST)__, Santa Clara. May 2017
 
-9. <a href="/pubs/ispass2017.pdf">*Docker Characterization on High Performance SSDs*</a>, Qiumin Xu, Manu Awasthi, Krishna T. Malladi, Janki Bhimani, Jingpei Yang, Murali Annavaram, __18th International Symposium on Performance Analysis of Systems and Software (ISPASS)__, Poster Track, San Francisco Bay Area. April 2017
+9. <a href="/pubs/ispass2017.pdf">*Docker Characterization on High Performance SSDs*</a>, Qiumin Xu, Manu Awasthi, Krishna T. Malladi, Janki Bhimani, Jingpei Yang, Murali Annavaram, __18th International Symposium on Performance Analysis of Systems and Software (ISPASS)__, *Poster Track*, San Francisco Bay Area. April 2017
 
 10. <a href="https://ieeexplore.ieee.org/document/7820601/">*KOVA : A Tool for Kernel Visualization and Analysis*</a>, Manu Awasthi, Krishna T. Malladi, __35th International Performance Computing and Communications Conference (IPCCC)__, Luxembourg. December 2016
 
@@ -79,7 +90,7 @@ Privacy Laws*</a>, Manu Awasthi, __Workshop on Data Fabric for Hybrid Clouds,
 
 19. <a href="/pubs/systor2015.pdf">*Performance Characterization of Hyperscale Applications on NVMe SSDs*</a>, Qiumin Xu, Huzefa Siyamwala, Mrinmoy Ghosh, Tameesh Suri, Manu Awasthi, Zvika Guz, Anahita Shayesteh, Vijay Balakrishnan, __8th International Systems and Storage Conference (SYSTOR)__, Israel, May 2015
 
-20. <a href="/pubs/nvmw2015.pdf">*Performance Characterization of Realistic Hyperscale Applications on NVMe SSDs</a>, Qiumin Xu, Mrinmoy Ghosh, Manu Awasthi, Tameesh Suri, Zvika Guz, Anahita Shayasteh, Vijay Balakrishnan, __6th Annual Non-Volatile Memories Workshop (NVMW)__, Poster Track, San Diego, March 2015
+20. <a href="/pubs/nvmw2015.pdf">*Performance Characterization of Realistic Hyperscale Applications on NVMe SSDs</a>, Qiumin Xu, Mrinmoy Ghosh, Manu Awasthi, Tameesh Suri, Zvika Guz, Anahita Shayasteh, Vijay Balakrishnan, __6th Annual Non-Volatile Memories Workshop (NVMW)__, *Poster Track*, San Diego, March 2015
 
 21. <a href="/pubs/icpe2015.pdf">*System Level Characterization of Datacenter Applications*,</a> Manu Awasthi, Tameesh Suri, Zvika Guz,
 Anahita Shayesteh, Mrinmoy Ghosh, Vijay Balakrishnan, __6th International Conference on Performance Engineering (ICPE)__ (<span style="color:red">Best Paper Award</span>), Austin, February 2015
@@ -88,7 +99,7 @@ Anahita Shayesteh, Mrinmoy Ghosh, Vijay Balakrishnan, __6th International Confer
 
 23. <a href="/pubs/hpca2012.pdf">*Efficient Scrub Mechanisms for Error-Prone Emerging Memories*</a>, Manu Awasthi, Manjunath Shevgoor, Kshitij Sudan, Bipin Rajendran, Rajeev Balasubramonian, Viji Srinivasan, __18th International Symposium on High Performance Computer Architecture (HPCA)__, New Orleans, February 2012
 
-24. <a href="/pubs/pact2011.pdf">Prediction Based DRAM Row-Buffer Management in the Many-Core Era</a>, __20th International Conference on Parallel Architecture and Compilation Techniques (PACT)__, Manu Awasthi, David W. Nellans, Rajeev Balasubramonian, Al Davis, Poster Track, Galveston Island, October 2011
+24. <a href="/pubs/pact2011.pdf">Prediction Based DRAM Row-Buffer Management in the Many-Core Era</a>, __20th International Conference on Parallel Architecture and Compilation Techniques (PACT)__, Manu Awasthi, David W. Nellans, Rajeev Balasubramonian, Al Davis, *Poster Track*, Galveston Island, October 2011
 
 25. <a href="/pubs/nvmw2011.pdf">*Handling PCM Resistance Drift with Device, Circuit, Architecture, and System Solutions*</a>, Manu Awasthi, Manjunath Shevgoor, Kshitij Sudan, Rajeev Balasubramonian, Bipin Rajendran, Viji Srinivasan, __2nd Non-Volatile Memories Workshop (NVMW)__, San Diego, March 2011
 
