@@ -3,6 +3,9 @@ layout: page
 title: Teaching
 use-site-title: true
 ---
+## Spring 2025
+* <a href="https://sites.google.com/ashoka.edu.in/cs4622/">Computing in the Cloud</a> (UG+PG; 2 credits)
+
 ## Spring 2023
 * <a href="https://sites.google.com/ashoka.edu.in/cs1217/">Operating Systems</a> (UG)
 
