@@ -9,18 +9,16 @@ motivated graduate and undergraduate students over the past few years.
 
 ### Advisees, Student Collaborators and Research Staff
 
-* Tom Glint Issac, PhD student, IIT Gandhinagar (co-advised with Prof. Joycee Mekie)
+
 
 #### Collaborators
 * <a href="http://joycee.people.iitgn.ac.in/">Prof. Joycee Mekie</a> (IIT Gandhinagar)
-* <a href="https://subodhvsharma.github.io/">Prof. Subodh Sharma</a> (IIT Delhi)
-* <a href="https://chajha.github.io/">Dr. Chandan Kumar Jha</a> (DFKI, Bremen)
-* Mr. Deepak Shankar (Mirabilis Design)
 
 #### Past Mentees
+* <a href="https://www.linkedin.com/in/glint">Tom Glint Issac</a>, PhD student, IIT Gandhinagar (**Next Stop**: Postdoc Researcher, Forschungszentrum Jülich)
 * Soham Bagchi, Capstone Thesis Advisee (**Next Stop**: PhD Student, University of Utah)
 * <a href="https://www.linkedin.com/in/arnabkalita/">Arnabjyoti Kalita</a>, Research Associate (**Next Stop**: PhD Student, University of Virginia)
-* <a href="https://varungohil.github.io">Varun Gohil</a>, Research Fellow (**Next Stop**: PhD Student, Cornell University)
+* <a href="https://varungohil.github.io">Varun Gohil</a>, Research Fellow (**Next Stop**: PhD Student, MIT)
 * Shreyas Singh, IIT Gandhinagar, graduated Spring 2020 (**Next Stop**: PhD Student, University of Utah)
 * <a href="https://checker5965.github.io">Archit Checker</a>, graduated Summer 2020 (**Next Stop**: Amuse Labs)
 * Prathamesh Upadhyay, M.Tech student, graduated Spring 2020 (**Next Stop**: MTS, Nutanix)
