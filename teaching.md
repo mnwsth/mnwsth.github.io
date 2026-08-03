@@ -3,6 +3,9 @@ layout: page
 title: Teaching
 use-site-title: true
 ---
+## Fall 2026
+* <a href="/teaching/es204/fall2026/">ES-204 Digital Systems</a> (UG; IIT Gandhinagar)
+
 ## Spring 2025
 * <a href="https://sites.google.com/ashoka.edu.in/cs4622/">Computing in the Cloud</a> (UG+PG; 2 credits)
 
